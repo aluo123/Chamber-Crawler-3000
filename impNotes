@@ -1,0 +1,23 @@
+still need to 
+implement all the different pots
+implement dragon
+fix attack functions
+player check block
+
+saturday
+added potion.cc
+implemneted restore health not as a decorator
+implemented boost attack as decorator
+added a setCurrentPlayer method in player to pass the player pointer to tile
+shade should work now
+can use characType to differentiate between a decorated player and just an item now
+remember to add maxHP constants to races //added to shade // need it for HP pot
+finished enemy check block //should work 
+
+changed friday
+player move to check for gold and dragon hoard before moving
+added transferObj to cell to move its content
+added characType to return player item or enemy
+implemented useItem in player to use pot as decorator and update currentTile pointer of player
+took out enemy's pointer to enemy 
+changed attack to take a direction instead
