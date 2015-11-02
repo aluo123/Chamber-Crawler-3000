@@ -8,7 +8,10 @@ Final Object Oriented Programming project made for University of Waterloo. Devel
 
 ###Select a Class
 Select a race by typing the first letter of the race name.
-Race | HP
+Race | HP | Attack | Defense | Special Effects 
+---|---|---|---|---
+Shade | 125 | 25 | 25 | None
+Drow | 150 | 25 | 15 | Potions are 1.5 times as effective
 ###How to play
 1. To move, type 'no' to move one space north, 'ne' for one space north-east, 'ea' for one space east, 'se' for one space south-east, 'so' for one space south, 'sw' for one space south-west, 'we' for one space west, and 'nw' for one space north-west
 2. To attack, type 'a dir' where 'dir' is one of the 8 directions
