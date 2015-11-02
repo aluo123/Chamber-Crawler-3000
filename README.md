@@ -8,7 +8,7 @@ Final Object Oriented Programming project made for University of Waterloo. Devel
 
 ###Select a Class
 |Race | HP | Attack | Defense | Special Effects |
-|---|---|---|---|---|
+|:---|:---:|:---:|:---:|:---|
 |Shade | 125 | 25 | 25 | None|
 |Drow | 150 | 25 | 15 | Potions are 1.5 times as effective|
 ###How to play
