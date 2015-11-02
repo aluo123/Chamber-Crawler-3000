@@ -23,3 +23,11 @@ Final Object Oriented Programming project made for University of Waterloo. Devel
 
 ###Goal
 The goal of the game is to try and get as much gold as possible. The game ends when you complete the 5th level or die.
+
+###Legend
+|Symbol|Description|
+|------|-----------|
+| @ | Player |
+| P | Potion |
+| G | Gold |
+| \ | Staircase |
