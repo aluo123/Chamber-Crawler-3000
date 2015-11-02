@@ -11,6 +11,10 @@ Final Object Oriented Programming project made for University of Waterloo. Devel
 |:---|:---:|:---:|:---:|:---|
 |Shade | 125 | 25 | 25 | None|
 |Drow | 150 | 25 | 15 | Potions are 1.5 times as effective|
+|Vampire | 50 | 25 | 25 | Gains 5 hp per attack, no max health |
+|Troll | 120 | 25 | 15 | Heals 5 hp per turn |
+|Goblin | 110 | 15 | 20 | Loots 5 gold from every slain enemy |
+
 ###How to play
 1. To move, type 'no' to move one space north, 'ne' for one space north-east, 'ea' for one space east, 'se' for one space south-east, 'so' for one space south, 'sw' for one space south-west, 'we' for one space west, and 'nw' for one space north-west
 2. To attack, type 'a dir' where 'dir' is one of the 8 directions
