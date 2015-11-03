@@ -21,6 +21,12 @@ Final Object Oriented Programming project made for University of Waterloo. Devel
 3. To use a potion, type 'u dir' where 'dir' is one of the 8 directions
 4. Walk over gold to pick up gold
 
+###Types of Enemies
+|Race | HP | Attack | Defense | Special Effects |
+|---|:---:|:---:|:---:|:---|
+|Human|||None|
+|Elf|||Attacks twice, unless you are a Drow|
+
 ###Goal
 The goal of the game is to try and get as much gold as possible. The game ends when you complete the 5th level or die.
 
