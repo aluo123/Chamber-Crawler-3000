@@ -27,6 +27,10 @@ The goal of the game is to try and get as much gold as possible. The game ends w
 ###Legend
 |Symbol|Description|
 |:------:|-----------|
+| . | Tile |
+| + | Door |
+| | | Wall |
+| # | Passage |
 | @ | Player |
 | P | Potion |
 | G | Gold |
