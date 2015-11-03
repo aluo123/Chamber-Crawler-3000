@@ -26,8 +26,14 @@ The goal of the game is to try and get as much gold as possible. The game ends w
 
 ###Legend
 |Symbol|Description|
-|------|-----------|
+|:------:|-----------|
 | @ | Player |
 | P | Potion |
 | G | Gold |
 | \ | Staircase |
+| H | Enemy - Human |
+| E | Enemy - Elf |
+| W | Enemy - Dwarf |
+| L | Enemy - Halfling |
+| O | Enemy - Orc |
+| D | Enemy - Dragon |
