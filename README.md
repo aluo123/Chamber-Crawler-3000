@@ -41,3 +41,4 @@ The goal of the game is to try and get as much gold as possible. The game ends w
 | L | Enemy - Halfling |
 | O | Enemy - Orc |
 | D | Enemy - Dragon |
+| M | Enemy - Merchant |
