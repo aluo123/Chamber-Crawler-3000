@@ -29,7 +29,7 @@ The goal of the game is to try and get as much gold as possible. The game ends w
 |:------:|-----------|
 | . | Tile |
 | + | Door |
-| | | Wall |
+| \| | Wall |
 | # | Passage |
 | @ | Player |
 | P | Potion |
