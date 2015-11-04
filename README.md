@@ -7,7 +7,6 @@ Final Object Oriented Programming project made for University of Waterloo. Devel
 3. Run with './cc3k' with no arguments for random generated levels. Run './cc3k cc3kfloor.txt' to run with pre-generated levels
 
 ###Select a Class
-|:---:|:----:|:----:|:---:|:----:|
 |Race | HP | Attack | Defense | Special Effects |
 |:---|:---:|:---:|:---:|:---|
 |Shade | 125 | 25 | 25 | None|
