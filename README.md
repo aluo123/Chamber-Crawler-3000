@@ -22,10 +22,15 @@ Final Object Oriented Programming project made for University of Waterloo. Devel
 4. Walk over gold to pick up gold
 
 ###Types of Enemies
-|Race | HP | Attack | Defense | Special Effects |
-|---|:---:|:---:|:---:|:---|
-|Human||||None|
-|Elf||||Attacks twice, unless you are a Drow|
+|Race | HP | Attack | Defense | Special Effects | Drops |
+|---|:---:|:---:|:---:|:---|:---:|
+|Human|140|20|20|None|4 Gold|
+|Dwarf|100|20|30|Vampires lose 5hp when attacking|1 or 2 Gold|
+|Elf|140|30|20|Attacks twice, unless you are a Drow|1 or 2 Gold|
+|Orc|180|30|25|Deals 50% more damage to Goblins|1 or 2 gold|
+|Merchant|30|70|5|Neutral unless a merchant had been attacked before|4 Gold|
+|Dragon|150|20|20|Stationary around it's hoard|None - but you can pick up it's hoard|
+|Halfling|100|15|20|50% chance to miss|1 or 2 gold|
 
 ###Goal
 The goal of the game is to try and get as much gold as possible. The game ends when you complete the 5th level or die.
