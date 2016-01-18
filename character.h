@@ -5,6 +5,8 @@
 
 //An abstract class Character to provide an interface for 
 //player and enemy races
+//children class must implement set and get methods for HP DEF and ATK
+
 
 class Cell;
 class Floor;
